@@ -11,3 +11,7 @@
 
 #re-ignore directories we don't want
 others/*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
